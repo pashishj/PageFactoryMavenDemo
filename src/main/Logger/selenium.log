@@ -1,0 +1,23 @@
+09:31:30,278  INFO TestBase:62  Navigation to url===>http://automationpractice.com/index.php
+09:31:30,428  INFO LoginPageTests:25  WebDriver Initialized
+09:31:30,429  INFO SeleniumWebDriverListener:64  Before FindBy Element:null
+09:31:30,466  INFO SeleniumWebDriverListener:68  After FindBy Element:[[ChromeDriver: chrome on XP (c411a4a9a205aecef214714da61ac36a)] -> xpath: //a[@title='Log in to your customer account']]
+09:34:04,521  INFO TestBase:62  Navigation to url===>http://automationpractice.com/index.php
+09:34:04,655  INFO LoginPageTests:25  WebDriver Initialized
+09:34:04,655  INFO SeleniumWebDriverListener:64  Before FindBy Element:null
+09:34:04,692  INFO SeleniumWebDriverListener:68  After FindBy Element:[[ChromeDriver: chrome on XP (d8f01c7e91f3d4bdd73b66d7a20d9ced)] -> xpath: //a[@title='Log in to your customer account']]
+09:35:46,690  INFO TestBase:62  Navigation to url===>http://automationpractice.com/index.php
+09:35:46,827  INFO LoginPageTests:26  WebDriver Initialized
+09:35:46,828  INFO SeleniumWebDriverListener:64  Before FindBy Element:null
+09:35:46,866  INFO SeleniumWebDriverListener:68  After FindBy Element:[[ChromeDriver: chrome on XP (a25fb81645463e681fae67fa6f58bc0a)] -> xpath: //a[@title='Log in to your customer account']]
+09:35:48,940  INFO SeleniumWebDriverListener:64  Before FindBy Element:null
+09:35:58,987  INFO SeleniumWebDriverListener:104  no such element: Unable to locate element: {"method":"xpath","selector":"//test"}
+  (Session info: chrome=77.0.3865.90)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'ASHISH', ip: '192.168.1.128', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_101'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 77.0.3865.90, chrome: {chromedriverVersion: 77.0.3865.40 (f484704e052e0..., userDataDir: C:\Users\pashi\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:54472}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: a25fb81645463e681fae67fa6f58bc0a
+*** Element info: {Using=xpath, value=//test}
+09:35:59,014  INFO SeleniumWebDriverListener:105  Exception occurredhttp://automationpractice.com/index.php?controller=authentication&back=my-account

@@ -1,0 +1,19 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
+
+<suite name="TestSuite" verbose="1" >
+    <test name="Functional"   >
+     <!--  <packages>
+            <package name="com.qa.tests" />
+        </packages>-->
+
+        <classes>
+            <class name="com.qa.tests.LoginPageTests">
+                <methods>
+                    <include name="display"></include>
+                </methods>
+
+            </class>
+
+        </classes>
+    </test>
+</suite>
